@@ -1,0 +1,1 @@
+# Ingen eksterne avhengigheter. Bruker kun Python-stdlib.
